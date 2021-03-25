@@ -6,4 +6,4 @@
 
 🌻 I’m looking to collaborate on fun projects with Python or Javascript
 
-🧚 she/her
+`she/her`
