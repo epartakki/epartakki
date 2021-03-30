@@ -4,8 +4,9 @@
 
 🖥 Interested in learning AWS
 
-⌨️️ attempting to code a minimum of 30 minutes each day on personal projects   
+⌨️️ Attempting to code a minimum of 30 minutes each day on personal projects   
 
-🌻 I’m looking to collaborate on fun projects with Python or Javascript
+🌻 I’m looking to collaborate on projects with Python or Javascript
 
 `she/her`
+
