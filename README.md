@@ -1,6 +1,6 @@
 ### Hello world
 
-🔭 I’m currently working on Visual Analytics and Computer Graphics
+🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
 
 🖥 Interested in learning AWS
 
