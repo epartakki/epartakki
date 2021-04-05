@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
 
-🖥 Currently learning AWS
+🖥 Currently learning `AWS`
 
 ⌨️️ Attempting to code a minimum of 30 minutes each day on personal projects   
 
