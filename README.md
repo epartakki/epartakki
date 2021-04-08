@@ -1,4 +1,4 @@
-### Hello world, I am Eleni
+### Hello world, I am Eleni.
 
 🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
 
