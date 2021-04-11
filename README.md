@@ -6,7 +6,7 @@
 
 ⌨️️ Working on personal projects
 
-🌻 I’m looking to collaborate on projects with Python or Javascript
+🌻 I’m looking to collaborate on projects with Python or Javascript, and always happy to chat
 
 `she/her`
 
