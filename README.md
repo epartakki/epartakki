@@ -4,7 +4,7 @@
 
 🖥 Currently learning about RDS databases in `AWS`
 
-⌨️️ Attempting to code a minimum of 30 minutes each day on personal projects   
+⌨️️ Working on personal projects
 
 🌻 I’m looking to collaborate on projects with Python or Javascript
 
