@@ -1,4 +1,4 @@
-### Hello world, I am Eleni (`she/her`).
+### Hello world, I am Eleni.
 
 🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
 
@@ -8,5 +8,4 @@
 
 🌻 I’m looking to collaborate on projects with Python or Javascript, and always happy to chat
 
-
-
+Pronouns: `she/her`
