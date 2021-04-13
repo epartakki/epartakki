@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
 
-🖥 Currently learning about RDS databases in `AWS`
+🖥 Currently learning about RDS databases in `AWS`, MySQL and Tableau
 
 ⌨️️ Working on personal projects
 
