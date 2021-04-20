@@ -8,6 +8,6 @@
 
 🌻 I’m looking to collaborate on projects with Python or Javascript, and always happy to chat
 
-Pronouns: `she/he
+Pronouns: `she/her`
 
 
