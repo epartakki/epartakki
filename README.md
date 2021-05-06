@@ -10,6 +10,6 @@
 
 🌻 I’m looking to collaborate on projects with Python or Javascript, and always happy to chat
 
-You can find my website here: 
+You can find my website here: epartakki.github.io/elenipartakki/#
 
 Pronouns: `she/her`
