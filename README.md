@@ -8,7 +8,7 @@
 
 ⌨️️ Working on personal projects and Human Machine Interaction research
 
-🌻 I’m looking to collaborate on projects with Python or Javascript, and always happy to chat
+🌻 I’m looking to collaborate on projects with Python or Javascript, and I'm always happy to chat
 
 You can find my [website here](https://epartakki.github.io/elenipartakki/#)
 
