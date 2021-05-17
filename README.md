@@ -2,7 +2,7 @@
 
 -----------
 
-🔭 I’m currently working on Visual Analytics (VAST Challenges) and Computer Graphics (OpenGL)
+🔭 Research assistant with [@SmithCollegeHCV](http://www.science.smith.edu/~jcrouser/research.html) on Human-Machine Interaction
 
 🖥 Currently learning about RDS databases in AWS, MySQL and Tableau
 
