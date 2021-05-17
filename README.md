@@ -6,7 +6,7 @@
 
 🖥 Currently learning about RDS databases in AWS, MySQL and Tableau
 
-⌨️️ Working on personal projects and Human Machine Interaction research
+⌨️️ Working on personal projects, VAST Challenges and Computer Graphics using Blender, Javascript and WebGL
 
 🌻 I’m looking to collaborate on projects with Python or Javascript, and I'm always happy to chat
 
