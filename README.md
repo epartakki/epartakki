@@ -14,6 +14,7 @@ You can find my website [here](https://epartakki.github.io/elenipartakki/#)
 
 Pronouns: `she/her`
 
+-----------
 
 ⚙️📦Current Projects:
 
