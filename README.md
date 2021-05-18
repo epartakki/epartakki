@@ -18,7 +18,7 @@ Pronouns: `she/her`
 
 ⚙️📦Current Projects:
 
-- [NYC PD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny dashboard providing exploratory information about the allegations against the NYC police department
+- [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny dashboard providing exploratory information about the allegations against the NYC police department
 
 
 
