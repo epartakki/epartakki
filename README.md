@@ -2,7 +2,7 @@
 
 -----------
 
-🔭 Research assistant with [@SmithCollegeHCV](http://www.science.smith.edu/~jcrouser/research.html) on Human-Machine Interaction
+🔭 Research assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
 
 🖥 Currently learning about RDS databases in AWS, MySQL and Tableau
 
