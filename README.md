@@ -4,7 +4,7 @@
 
 🔭 Research assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
 
-🖥 Currently learning about RDS databases in AWS, MySQL and Tableau
+🖥 Currently learning about RDS databases in AWS, MySQL, Tableau and React
 
 ⌨️️ Working on personal projects, VAST Challenges and Computer Graphics using Blender, Javascript and WebGL
 
