@@ -18,7 +18,7 @@ Pronouns: `she/her`
 
 ⚙️📦Most Recent Projects:
 
-- [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny dashboard using R providing exploratory information about the allegations against the NYC police department
+- [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app using R displaying information about allegations against the NYPD
 
 - [Runner Game](https://github.com/epartakki/runnergame) a game prototype using WebGL and JavaScript libraries
 
