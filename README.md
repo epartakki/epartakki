@@ -2,7 +2,7 @@
 
 -----------
 
-🔭 Research assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
+🔭 Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
 
 🖥 Currently learning to use RDS databases in AWS, MySQL, Tableau and React
 
