@@ -22,7 +22,10 @@ Pronouns: `she/her`
 
 - [Runner Game](https://github.com/epartakki/runnergame) a game prototype using WebGL and JavaScript libraries
 
+- [Massachusetts COVID-19 Vaccine Locations](https://marium.shinyapps.io/hacksmith21/) a Shiny app using R displaying the locations and information about vaccine locations
+
 - [Pokemon Game](https://github.com/epartakki/pokemongame) a simple Pokemon game I made to practice Python
+ 
 
 
 -----------
