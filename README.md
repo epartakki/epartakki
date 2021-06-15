@@ -1,6 +1,6 @@
 ### Hello world, I am Eleni.
 
------------
+***
 
 🔭 Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
 
@@ -14,7 +14,7 @@ You can find my website [here](https://epartakki.github.io/elenipartakki/#)
 
 Pronouns: `she/her`
 
------------
+***
 
 ⚙️📦Most Recent Projects:
 
@@ -27,10 +27,14 @@ Pronouns: `she/her`
 - [Pokemon Game](https://github.com/epartakki/pokemongame) a simple Pokemon game I made to practice Python
  
 
------------
+***
 
 
 | Currently  | 
 | ----------- | 
 | Looking for a full-time position starting June 2022   |
-| 💡🛠⚙️📦🔍 |
+| |
+
+***
+
+💡🛠⚙️📦🔍
