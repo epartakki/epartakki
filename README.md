@@ -30,7 +30,7 @@ Pronouns: `she/her`
 -----------
 
 
-| Emojis  | 
+| Currently  | 
 | ----------- | 
-| 💡🛠⚙️📦🔍   |
-|  |
+| Looking for a full-time position starting June 2022   |
+| 💡🛠⚙️📦🔍 |
