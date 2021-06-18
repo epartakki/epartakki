@@ -6,7 +6,7 @@
 
 ⌨️️ Working on personal projects
 
-🌻 Always happy to chat!
+💡 Always happy to chat!
 
 Pronouns: `she/her`
 
