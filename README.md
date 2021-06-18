@@ -4,13 +4,9 @@
 
 🔭 Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
 
-🖥 Currently learning to use RDS databases in AWS, MySQL, Tableau and React
+⌨️️ Working on personal projects
 
-⌨️️ Working on personal projects, VAST Challenges and Computer Graphics using Blender, Javascript and WebGL
-
-🌻 I’m looking to collaborate on projects with Python or Javascript, and I'm always happy to chat
-
-You can find my website [here](https://epartakki.github.io/elenipartakki/#)
+🌻 I’m looking to collaborate on projects and always happy to chat
 
 Pronouns: `she/her`
 
@@ -22,18 +18,8 @@ Pronouns: `she/her`
 
 - [Runner Game](https://github.com/epartakki/runnergame) a game prototype using WebGL and JavaScript libraries
 
-- [Massachusetts COVID-19 Vaccine Locations](https://marium.shinyapps.io/hacksmith21/) a Shiny app using R displaying the locations and information about vaccine locations
-
 - [Pokemon Game](https://github.com/epartakki/pokemongame) a simple Pokemon game I made to practice Python
  
-
-***
-
-
-| Currently  | 
-| ----------- | 
-| Looking for a full-time position starting June 2022   |
-| |
 
 ***
 
