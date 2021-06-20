@@ -9,5 +9,3 @@
 💡 Always happy to chat!
 
 Pronouns: `she/her`
-
-***
