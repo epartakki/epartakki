@@ -26,5 +26,3 @@ Pronouns: `she/her`
 | ----------- | 
 | Looking for a full-time position starting June 2022   |
 | |
-
-***
