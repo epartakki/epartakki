@@ -21,8 +21,3 @@ Pronouns: `she/her`
 - [Pokemon Game](https://github.com/epartakki/pokemongame) a simple Pokemon game I made to practice Python
  
 ***
-
-| Currently  | 
-| ----------- | 
-| Graduating in May 2022 and looking for a full-time position |
-| |
