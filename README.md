@@ -24,5 +24,5 @@ Pronouns: `she/her`
 
 | Currently  | 
 | ----------- | 
-| Looking for a full-time position starting June 2022   |
+| Graduating in May 2022 and looking for a full-time position |
 | |
