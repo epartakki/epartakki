@@ -2,7 +2,7 @@
 
 ***
 
-🔭 Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction
+🔭 Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction (Adaptive Filtering and Visual Literacy)
 
 ⌨️️ Working on personal projects
 
