@@ -12,6 +12,8 @@ Pronouns: `she/her`
 
 ⚙️📦Most Recent Projects:
 
+- SpotExpress
+
 - [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app using R displaying information about allegations against the NYPD
 
 - Research Assistant with [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Machine Interaction (Adaptive Filtering and Visual Literacy)
