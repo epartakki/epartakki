@@ -12,9 +12,9 @@ Pronouns: `she/her`
 
 ⚙️📦Most Recent Projects:
 
-- [Pomodoro] (https://github.com/epartakki/pomodoro)
+- [Pomodoro](https://github.com/epartakki/pomodoro)
 
-- [SpotExpress] (https://github.com/epartakki/spotexpress)
+- [SpotExpress](https://github.com/epartakki/spotexpress)
 
 - [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app using R displaying information about allegations against the NYPD
 
