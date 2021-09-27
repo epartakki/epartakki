@@ -14,6 +14,8 @@ Pronouns: `she/her`
 
 📦Most Recent Projects:
 
+- [Personal Website](https://epartakki.github.io/elenipartakki/) Visit my website!
+
 - [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
 - [SpotExpress](https://github.com/epartakki/spotexpress) a simple program that takes your liked videos on Youtube, and generates a Spotify playlist based on that list
