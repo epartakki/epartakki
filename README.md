@@ -14,7 +14,7 @@ Pronouns: `she/her`
 
 📦Most Recent Projects:
 
-- [Personal Website](https://epartakki.github.io/elenipartakki/) Visit my website!
+- [Personal Website](https://epartakki.github.io/elenipartakki/) visit my website!
 
 - [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
