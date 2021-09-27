@@ -2,7 +2,7 @@
 
 ***
 
-⌨️️ Working on personal projects
+⌨️️ Working on personal projects.
 
 💡 Always happy to chat!
 
