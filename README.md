@@ -6,15 +6,17 @@
 
 💡 Always happy to chat!
 
+⚙️ Looking for full-time opportunities.
+
 Pronouns: `she/her`
 
 ***
 
-⚙️📦Most Recent Projects:
+📦Most Recent Projects:
 
-- [Pomodoro](https://github.com/epartakki/pomodoro)
+- [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
-- [SpotExpress](https://github.com/epartakki/spotexpress)
+- [SpotExpress](https://github.com/epartakki/spotexpress) a simple program that takes your liked videos on Youtube, and generates a Spotify playlist based on that list
 
 - [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app using R displaying information about allegations against the NYPD
 
