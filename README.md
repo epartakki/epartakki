@@ -15,7 +15,7 @@ Pronouns: `she/her`
 📦Most Recent Projects:
 - [Hyperledger - Cactus Contribution](https://github.com/hyperledger/cactus)
 
-- [Personal Website](https://epartakki.github.io/elenipartakki/) visit my website!
+- [Personal Website](https://epartakki.github.io/) visit my website!
 
 - [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
