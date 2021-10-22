@@ -1,6 +1,7 @@
 ### Hello world, I am Eleni.
 
 ***
+🔭 Undergraduate Research Assistant at @SmithCollegeHCV on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
 
 ⌨️️ Working on personal projects.
 
