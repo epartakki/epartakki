@@ -15,8 +15,6 @@ Pronouns: `she/her`
 
 📦Most Recent Projects:
 
-- [Encryption: Caesar Cipher and SHA251](https://github.com/epartakki/encryption) implemented in Python
-
 - [Hyperledger - Cactus Contribution](https://github.com/hyperledger/cactus) Hyperledger Cactus is a new approach to the blockchain interoperability problem
 
 - [Personal Website](https://epartakki.github.io/) visit my website!
