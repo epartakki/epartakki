@@ -3,11 +3,11 @@
 ***
 🔭 Undergraduate Research Assistant at [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
 
-⌨️️ Working on personal projects.
+⌨️️ Working on personal projects
 
 💡 Always happy to chat! Feel to reach out by [email](mailto:elenipartakki@gmail.com) or on twitter [@epartakki](https://twitter.com/epartakki)! 
 
-⚙️ Looking for full-time opportunities.
+⚙️ Looking for full-time opportunities
 
 Pronouns: `she/her`
 
