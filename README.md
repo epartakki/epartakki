@@ -13,7 +13,7 @@ Pronouns: `she/her`
 
 ***
 
-📦Most Recent Projects:
+📦 Most Recent Projects:
 
 - [Encryption: Caesar Cipher and SHA251](https://github.com/epartakki/encryption) implemented in Python
 
