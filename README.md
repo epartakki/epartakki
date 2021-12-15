@@ -30,7 +30,5 @@ Pronouns: `she/her`
 - [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
 - [Runner Game](https://github.com/epartakki/runnergame) a game prototype using WebGL and JavaScript libraries
-
-- [Pokemon Game](https://github.com/epartakki/pokemongame) a simple Pokemon game I made to practice Python
  
 ***
