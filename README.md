@@ -9,8 +9,6 @@
 
 ⚙️ Looking for full-time opportunities
 
-Pronouns: `she/her`
-
 ***
 
 📦 Most Recent Projects:
