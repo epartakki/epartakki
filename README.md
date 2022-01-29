@@ -1,9 +1,9 @@
 ### Hello world, I am Eleni.
 
 ***
-🧩 Software Engineering Research Intern at []
+🧩 Software Engineering Research Intern [@AnyKey][https://anykey.org/] on continuing development of a community-driven moderation intervention called the AnyKey GLHF pledge
 
-🔭 Undergraduate Research Assistant at [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
+🔭 Undergraduate Research Assistant [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
 
 ⌨️️ Working on personal projects
 
