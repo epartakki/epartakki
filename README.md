@@ -1,6 +1,8 @@
 ### Hello world, I am Eleni.
 
 ***
+🧩 Software Engineering Research Intern at []
+
 🔭 Undergraduate Research Assistant at [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
 
 ⌨️️ Working on personal projects
