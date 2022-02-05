@@ -7,7 +7,7 @@
 
 💡 Always happy to chat! Feel to reach out by [email](mailto:elenipartakki@gmail.com) or on twitter [@epartakki](https://twitter.com/epartakki)! 
 
-⚙️ Looking for full-time opportunities
+⚙️ Incoming Sales Engineer [@Tamr](https://www.tamr.com/)
 
 ***
 
