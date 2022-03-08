@@ -7,7 +7,7 @@
 
 ⌨️️ Working on personal projects
 
-💡 Always happy to chat! Feel to reach out by [email](mailto:elenipartakki@gmail.com) or on twitter [@epartakki](https://twitter.com/epartakki)! 
+💡 Always happy to chat! Feel to reach out by [email](mailto:elenipartakki@gmail.com), [linkedin](https://www.linkedin.com/in/elenipartakki/) or [twitter](https://twitter.com/epartakki)! 
 
 ***
 
