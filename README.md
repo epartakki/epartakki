@@ -25,8 +25,6 @@
 
 - [NYPD Allegations](https://github.com/mariumtapal/sds235-final-project) a Shiny app using R displaying information about allegations against the NYPD
 
-- [Calculator Android Application](https://github.com/tsa-heidi/uc2) contributed in creating a calculator that displays each step in java
-
 - [Pomodoro](https://github.com/epartakki/pomodoro) my procrastination project to convince myself to use the Pomodoro technique to study
 
 - [Runner Game](https://github.com/epartakki/runnergame) a game prototype using WebGL and JavaScript libraries
