@@ -17,7 +17,7 @@
 
 - [Encryption: Caesar Cipher and SHA251](https://github.com/epartakki/encryption) implemented in Python
 
-- [Hyperledger - Cactus (Open-Source Contribution)](https://github.com/hyperledger/cactus) Hyperledger Cactus is a new approach to the blockchain interoperability problem
+- Open-Source Contributions for [(Hyperledger Cactus)](https://github.com/hyperledger/cactus) and [(Microsoft STL)](https://github.com/microsoft/STL)
 
 - [Personal Website](https://epartakki.github.io/) visit my website!
 
