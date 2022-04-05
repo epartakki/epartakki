@@ -17,4 +17,4 @@
 
 - Open-Source Contributions for [Hyperledger Cactus](https://github.com/hyperledger/cactus) and [Microsoft STL](https://github.com/microsoft/STL)
 
-- [SpotExpress](https://github.com/epartakki/spotexpress) a simple program that takes your liked videos on Youtube, and generates a Spotify playlist based on that list
+- [SpotExpress](https://github.com/epartakki/spotexpress) a simple program that takes your liked videos on Youtube, and generates a Spotify playlist
