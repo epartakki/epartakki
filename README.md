@@ -11,7 +11,7 @@
 
 📦 Most Recent Projects:
 
-- App for a Bike Sharing project called [ValetBike](https://github.com/epartakki/valetbike)
+- App for a bike sharing project called [ValetBike](https://github.com/epartakki/valetbike)
 
 - [Encryption: Caesar Cipher and SHA251](https://github.com/epartakki/encryption) implemented in Python
 
