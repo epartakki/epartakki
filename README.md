@@ -4,8 +4,6 @@
 
 ⚙️ Incoming Sales Engineer [@Tamr](https://www.tamr.com/)
 
-👾 Always happy to chat! Feel to reach out via [email](mailto:elenipartakki@gmail.com), [linkedin](https://www.linkedin.com/in/elenipartakki/) or [twitter](https://twitter.com/epartakki)! 
-
 ***
 
 📦 Most Recent Projects:
