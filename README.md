@@ -14,8 +14,6 @@
 
 - [Encryption: Caesar Cipher and SHA251](https://github.com/epartakki/encryption) implemented in Python
 
-- Open-Source Contributions for [Hyperledger Cactus](https://github.com/hyperledger/cactus) and [Microsoft STL](https://github.com/microsoft/STL)
-
 - [SpotExpress](https://github.com/epartakki/spotexpress) a simple program that takes your liked videos on Youtube, and generates a Spotify playlist
 
 - 🔭 Undergraduate Research Assistant [@SmithCollegeHCV](https://github.com/SmithCollegeHCV) on Human-Computer Interaction (Adaptive Filtering, Suggestion Engines, Visualization Literacy)
