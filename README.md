@@ -1,4 +1,4 @@
-### Hello world, I am ℓn(e).
+### Hello world, I am ℓn(ℯ).
 
 ⚙️ Sales Engineer [@Tamr](https://www.tamr.com/)
 
