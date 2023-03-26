@@ -10,6 +10,8 @@ Agape.
 
 ***
 
+I can also be spotted as a:
+
 ⚙️ Solutions Architect for the Manufacturing and Energy Sector
 
 🧩 SWE Volunteer [@AnyKey](https://anykey.org/) continuing development of a community-driven moderation intervention, the [AnyKey GLHF pledge](https://anykey.org/en/pledge)
