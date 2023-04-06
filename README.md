@@ -1,8 +1,6 @@
 ### Hello world, I am ℓn(ℯ). Well, Eleni.
 
-👾 I am an independent researcher with one of my passions being artificial intelligence alignment. After completing a degree in computer science and political science, I became fascinated with the potential of AI to revolutionize society and improve human lives. However, I also recognized the significant risks posed by powerful AI systems that could act against human interests. I am choosing to devote my free-time on research to the development of AI alignment techniques and strategies. I am conducting different independent research on topics such as value alignment, reward engineering, and cooperative AI, with a focus on ensuring that AI systems are aligned with human values and goals. As both a political science and computer science aspiring scientist, figuring out how to connect humanity and AI is of outmost importance to me, and have decided that not offering my time to aid the improvement of society, would be a life unfulfilling to me and the people I love and care about.
-
-I am actively communicating with various AI safety communities, and aim to utilize my blog as a way to communicate the things I learn. You can follow that journey on [Medium](https://medium.com/@elenipartakki).
+👾 I am an independent researcher with one of my passions being artificial intelligence alignment. After completing a degree in computer science and political science, I became fascinated with the potential of AI and science to revolutionize society and improve human lives. I focus on value alignment, reward engineering, and cooperative AI, and outside of development focus on human interaction and societal structures through comparative politics. 
 
 If you are interested in connecting, it would be my pleasure. Feel to reach out via [email](mailto:elenipartakki@gmail.com), [linkedin](https://www.linkedin.com/in/elenipartakki/) or [twitter](https://twitter.com/epartakki).
 
