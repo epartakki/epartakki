@@ -1,6 +1,6 @@
 ### Hello world, I am ℓn(ℯ). Well, Eleni.
 
-If you are interested in connecting, it would be my pleasure. Feel to reach out via [email](mailto:elenipartakki@gmail.com), [linkedin](https://www.linkedin.com/in/elenipartakki/) or [twitter](https://twitter.com/epartakki).
+If you are interested in connecting, it would be my pleasure. Feel to reach out via [email](mailto:elenipartakki@gmail.com) or [linkedin](https://www.linkedin.com/in/elenipartakki/).
 
 ***
 
